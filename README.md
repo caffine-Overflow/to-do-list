@@ -46,17 +46,17 @@ Font: Poppins: Applied for clean and modern typography.
 Here are some screenshots showcasing the app:
 
 Main Interface:
+![Screenshot 2024-10-21 131436](https://github.com/user-attachments/assets/403c419b-4d9c-4cb9-83a8-cbce5e34841b)
 
-![Screenshot 2024-10-21 131624](https://github.com/user-attachments/assets/18af5700-be29-488b-a38c-c56fd3dfb37c)
 Adding a Task:
 
-![Screenshot 2024-10-21 131436](https://github.com/user-attachments/assets/403c419b-4d9c-4cb9-83a8-cbce5e34841b)
+![Screenshot 2024-10-21 131558](https://github.com/user-attachments/assets/012b63fb-b8b1-406d-b009-43d90530c4d2)
 
 
 Completed and Delete:
 
+![Screenshot 2024-10-21 131624](https://github.com/user-attachments/assets/18af5700-be29-488b-a38c-c56fd3dfb37c)
 
-![Screenshot 2024-10-21 131558](https://github.com/user-attachments/assets/012b63fb-b8b1-406d-b009-43d90530c4d2)
 ![Screenshot 2024-10-21 131646](https://github.com/user-attachments/assets/8392b322-177d-46ac-b937-d9ae87dd2164)
 
 🙌 Acknowledgments
